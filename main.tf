@@ -1,8 +1,8 @@
 provider "aws" {
   profile = "default"
   region  = "us-east-1"
-  access_key = "AKIAIWRKGG45JW33UDHQ"
-  secret_key = "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"
+  access_key = "AKIAJIGLX7MGJ7MMILEA"
+  secret_key = "ec6pCS7Ui9QuS1srfqekROJNILvckGoHutVU8Kez"
 }
 
 resource "aws_instance" "example" {
